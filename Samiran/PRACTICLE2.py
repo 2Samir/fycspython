@@ -1,6 +1,4 @@
 marks = float(input("Enter your no: "))
-
-
 if marks <=100:
     if marks >= 90:
         print("Grade A")
